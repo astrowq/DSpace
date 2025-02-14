@@ -876,7 +876,7 @@
           <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-common</artifactId>
-            <version>4.1.100.Final</version>
+            <version>4.1.118.Final</version>
           </dependency>
           <dependency>
             <groupId>io.netty</groupId>
